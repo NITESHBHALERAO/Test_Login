@@ -19,7 +19,7 @@ public class LoginTest extends Base{
 		lp.setPassword(password);
 		lp.clickLoginbutton();
 		
-		Thread.sleep(2000);
+		
 
 	}
 }
