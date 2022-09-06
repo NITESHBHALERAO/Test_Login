@@ -19,7 +19,7 @@ public class LoginPage {
 	@FindBy(name="login") WebElement loginbutton;
 	
 	public void setusername(String username) {
-		uname.sendKeys(username);
+		uname.sendKeys(username);    
 	}
 	
 	public void setPassword(String password1) {
