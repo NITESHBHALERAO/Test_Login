@@ -1,5 +1,5 @@
 package com.as.testcases;
-import org.testng.Assert;
+
 import org.testng.annotations.Test;
 
 import com.as.pages.LoginPage;
